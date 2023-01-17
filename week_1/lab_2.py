@@ -15,7 +15,7 @@ cam         = cv.VideoCapture(0)
 cascade     = 'haarcascade_frontalface_default.xml'
 classifier  = cv.CascadeClassifier(cascade)
 
-# Loop until 'q' button pressed
+# Loop until 'esc' button pressed
 while cv.waitKey(1) != 27:
     # Capture an image from webcam
     _, img  = cam.read()
