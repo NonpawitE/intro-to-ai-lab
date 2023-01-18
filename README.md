@@ -49,7 +49,11 @@ conda install pillow
 python -m venv intro_ai 
 ```
 * Then look on the bottom right and look for `Interpreter`
+<img width="499" alt="Screenshot 2023-01-18 at 15 06 06" src="https://user-images.githubusercontent.com/95632474/213116876-0172ab07-9791-49de-957d-69d99bc596f1.png">
+
 * Select virtual environment that we created
+<img width="599" alt="Screenshot 2023-01-18 at 15 08 08" src="https://user-images.githubusercontent.com/95632474/213117247-73e4fe3c-92e9-4604-937c-a78238c0be7a.png">
+
 * Activate virtual environment
 ```
 intro_ai\Scripts\activate
@@ -80,3 +84,16 @@ pip install pillow
 | Assignments   | 30%          |
 | Mid-term      | 20%          |
 | Attendance    | 10%          |
+
+
+## Export Model from Teachable Machines
+
+* First, train your model in [Teachable Machine](https://teachablemachine.withgoogle.com/train)
+* Press export your model
+<img width="425" alt="export" src="https://user-images.githubusercontent.com/95632474/213115634-83100231-1425-4db1-b119-efae344ef5af.png">
+
+* Then, click export as Tensor-flow
+* Download model as Keras
+* Also, you can copy the Open CV code from the bottom section
+<img width="808" alt="Screenshot 2023-01-18 at 14 52 50" src="https://user-images.githubusercontent.com/95632474/213116291-5f2f8aa1-633f-4f28-b629-ac4bea821d08.png">
+
