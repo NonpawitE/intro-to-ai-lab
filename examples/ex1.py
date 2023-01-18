@@ -4,6 +4,9 @@
 Example 1 : Mask or Unmasked Detection
 
 Output : https://youtu.be/JiC2getn-gE
+
+Note : Please use your model downloaded from
+       Teachable Machine
 """
 
 import cv2 as cv
