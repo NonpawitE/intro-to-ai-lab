@@ -4,6 +4,7 @@
 - [Anaconda Setup](#anaconda-setup)
 - [Visual Studio Code Setup](#visual-studio-code-setup)
 - [Grading Criteria](#grading-criteria)
+- [Export Model from Teachable Machines](#export-model-from-teachable-machines)
 
 
 ## Anaconda Setup
