@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Example 1 : Mask or Unmasked Detection
+Example 1 : Face Detection from Teachable Machine
 
 Output : https://youtu.be/JiC2getn-gE
 
