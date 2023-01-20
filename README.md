@@ -63,6 +63,10 @@ python -m venv intro_ai
 ```
 intro_ai\Scripts\activate
 ```
+* If there's problem about `ExecutionPoliicy` type this in Terminal
+```
+Set-ExecutionPolicy Unrestricted -Scope CurrentUser
+```
 * After that, we install Open CV
 ```
 pip install opencv-python
