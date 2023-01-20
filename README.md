@@ -36,6 +36,10 @@ conda install keras
 ```
 conda install pillow
 ```
+* Spyder
+```
+conda install spyder
+```
 
 
 ## Visual Studio Code Setup
