@@ -63,7 +63,7 @@ python -m venv intro_ai
 ```
 intro_ai\Scripts\activate
 ```
-* If there's problem about `ExecutionPoliicy` type this in Terminal
+* If there's problem about `ExecutionPoliicy` type this in Terminal, then repeat the step before
 ```
 Set-ExecutionPolicy Unrestricted -Scope CurrentUser
 ```
