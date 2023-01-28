@@ -62,8 +62,8 @@ while cv.waitKey(1) != 27:
         confidence_score = prediction[0][index]
         cv.rectangle(img, (x, y), (x + w, y + h), (0, 255, 0), 2)
     
-    print('Class:', class_name, end='')
-    print('Confidence score:', confidence_score)
+        print('Class:', class_name, end='')
+        print('Confidence score:', confidence_score)
     
     # Show output
     cv.imshow("Face Detection", img)
